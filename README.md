@@ -8,7 +8,7 @@
 - 🎓 Student of Systems Analysis and Development
 - 💡 Looking for new challenges!
 
-### 🚀 Technologies I use the most:
+### 🚀 Technical knowledge in: 
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
