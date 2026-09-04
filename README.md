@@ -27,23 +27,24 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,supabase&perline=9" alt="Tech Stack" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ---
 
 ### 🚀 Highlighted Projects
 
-* **[TechNova](https://github.com/gustavonunesx/TechNova)** 🛒
-  * *Electronics retail application.*
-  * **Back-end:** Complete RESTful API built with **Java** and **Spring Boot**, managing the product catalog, inventory, and MySQL database CRUD operations.
-  * **Front-end:** Dynamic and responsive interface for product registration and listing using **HTML, CSS, and JavaScript**.
+* **[E-commerce Full Project](https://github.com/gustavonunesx/E-commerce_Full_Project)** 🛒
+  * *A complete e-commerce solution.*
+  * A robust application developed to manage products, carts, and user flows, integrating solid back-end architecture with a dynamic user experience.
 
-* **User Management System** 👥
-  * *Robust back-end architecture.*
-  * Developed using standard design patterns and a layered architecture (*Controller, Service, Repository, Entity*).
-  * Built fully on **Java** and **Spring Boot**.
+* **[FinDash](https://github.com/gustavonunesx/FinDash)** 📊
+  * *Financial Dashboard Application.*
+  * Designed for tracking and managing financial metrics, focusing on clear data visualization, efficient data handling, and an intuitive UI.
 
 ---
 
