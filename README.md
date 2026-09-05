@@ -48,15 +48,5 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavonunesx&show_icons=true&theme=react&bg_color=1c1c1c&text_color=ffffff&icon_color=007396&border_color=1c1c1c&v=1" alt="Gustavo's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonunesx&layout=compact&bg_color=1c1c1c&text_color=ffffff&border_color=1c1c1c&v=1" alt="Top Langs" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavonunesx&theme=react&background=1c1c1c&border=1c1c1c&ring=007396&fire=007396&currStreakLabel=ffffff" alt="GitHub Streak" height="150"/>
-</p>
-
----
 
