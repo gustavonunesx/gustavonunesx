@@ -27,11 +27,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,supabase&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,react,nodejs,python,mysql,docker,git,github,supabase,vercel&perline=8" alt="Tech Stack" />
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
 </p>
 
 ---
